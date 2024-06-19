@@ -1,7 +1,7 @@
 ### Prácticas PIVA
 ##### Curso 2023/2024
 
-Este repositorio contiene el trabajo optativo de la asignatura _Procesamiento de Imagen, Vídeo y Audio_ del grado en _Ciencia e Ingeniería de Datos_ de la _Universidad de Coruña_.
+Este repositorio contiene el trabajo final de la asignatura _Procesamiento de Imagen, Vídeo y Audio_ del grado en _Ciencia e Ingeniería de Datos_ de la _Universidad de Coruña_.
 
 ---
 #### Segmentación de carreteras
